@@ -1,5 +1,5 @@
-import HeroCard1 from "./herocard1";
-import HeroCard2 from "./herocard2";
+import HeroCard1 from "./HeroCard1";
+import HeroCard2 from "./HeroCard2";
 
 
 
